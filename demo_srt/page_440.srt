@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:2968110810
+
+00:01.364 --> 00:02.767
+momentarily.
+Please stand by.
+
+00:02.768 --> 00:04.171
+The event will begin
+momentarily.
+
+00:04.172 --> 00:05.575
+Please stand by.
+The event will begin
+

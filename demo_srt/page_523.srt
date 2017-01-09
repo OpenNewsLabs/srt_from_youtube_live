@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3005459190
+
+00:00.692 --> 00:06.167
+husband Joe wanted me to remind 
+you that he picked nova to win 
+

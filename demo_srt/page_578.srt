@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3030209910
+
+00:01.263 --> 00:04.258
+steps and shot this team into 
+basketball lore.
+
+00:04.634 --> 00:10.858
+This was a good shot.
+And it was like a Christian 
+

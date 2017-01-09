@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3001861530
+
+00:01.034 --> 00:04.388
+some big fans here from both 
+sides of the aisle in congress.
+
+00:04.653 --> 00:09.023
+We also want to acknowledge the 
+Villanova president who's here.
+

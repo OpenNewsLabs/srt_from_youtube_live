@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3051810450
+
+00:00.292 --> 00:02.292
+&gt;&gt; Fantastic.
+Thank you so much.
+

@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3004110810
+
+00:03.364 --> 00:09.605
+Unfortunately perhaps the -- 
+most important nova grad here Dr
+

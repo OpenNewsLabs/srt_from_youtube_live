@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3029309010
+
+00:00.302 --> 00:04.108
+their spirit broken.
+Wild cats, they took control and
+
+00:04.249 --> 00:06.463
+ 
+they responded and on a play 
+

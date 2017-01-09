@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3010411080
+
+00:01.880 --> 00:06.309
+treated us to as memorable a run
+ 
+

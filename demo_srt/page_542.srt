@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3014011710
+
+00:02.521 --> 00:06.921
+in program history to score 1,
+1,000 points and grab 900 boards
+

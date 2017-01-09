@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3035612250
+
+00:04.334 --> 00:07.159
+nationally with the grades.
+[ APPLAUSE ]
+

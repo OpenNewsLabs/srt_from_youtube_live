@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3034711350
+
+00:03.470 --> 00:07.869
+pretty excited.
+So this is a team for the ages 
+

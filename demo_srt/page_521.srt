@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3004561260
+
+00:04.601 --> 00:10.279
+Dr. Joe Biden could not be here.
+She may be teaching but her
+

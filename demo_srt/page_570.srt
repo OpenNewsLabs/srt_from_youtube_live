@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3026609280
+
+00:02.521 --> 00:06.968
+ticket to the final four.
+They blew the doors off Oklahoma
+

@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3012209910
+
+00:01.816 --> 00:07.540
+A senior class that won more 
+games than any group in wild cat
+

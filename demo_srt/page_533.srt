@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3009960630
+
+00:01.372 --> 00:02.436
+ 
+we have his basketball players 
+
+00:02.437 --> 00:06.884
+here.
+So coach Wright and this team 
+

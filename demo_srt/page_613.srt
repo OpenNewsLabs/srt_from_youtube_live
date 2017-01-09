@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3045960630
+
+00:03.060 --> 00:06.335
+and Daniel to share with you the
+ 
+

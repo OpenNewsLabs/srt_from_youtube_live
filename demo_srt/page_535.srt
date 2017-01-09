@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3010861530
+
+00:01.305 --> 00:05.111
+and as memorable a championship 
+game as I can remember.
+

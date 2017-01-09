@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3023909550
+
+00:04.134 --> 00:08.317
+But more than any individual 
+honor this team possessed 
+

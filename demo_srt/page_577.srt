@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3029759460
+
+00:01.459 --> 00:06.267
+called nova Chris took the pass 
+from marks and pulled up a few 
+

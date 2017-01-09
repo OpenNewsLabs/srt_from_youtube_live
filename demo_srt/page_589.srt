@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3035161800
+
+00:02.865 --> 00:09.338
+on and off the court.
+They ranked in the top 10% 
+

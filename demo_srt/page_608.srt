@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3043711350
+
+00:00.229 --> 00:04.893
+This is big time and on behalf 
+of our entire nova family I want
+

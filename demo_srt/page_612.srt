@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3045510180
+
+00:02.995 --> 00:08.064
+You're a great leader and we 
+want two of our leaders Ryan -- 
+

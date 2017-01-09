@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:2997810540
+
+00:04.083 --> 00:06.266
+&gt;&gt; Ladies and gentlemen, the 
+president of the United States.
+

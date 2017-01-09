@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3003209910
+
+00:01.326 --> 00:05.662
+Athletic director Mark Jackson 
+who camped off his first year 
+

@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:2999609280
+
+00:00.139 --> 00:02.139
+&gt;&gt; Hello, everybody.
+Hello!
+
+00:03.166 --> 00:06.194
+Everybody, please have a seat.
+Welcome to the White House.
+

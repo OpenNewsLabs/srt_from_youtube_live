@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3006810540
+
+00:01.778 --> 00:06.056
+Unfortunately I didn't follow 
+his council so my bracket was 
+

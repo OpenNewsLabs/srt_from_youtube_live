@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3000059730
+
+00:02.000 --> 00:06.197
+And I guessth blue and White 
+House today because we're giving
+

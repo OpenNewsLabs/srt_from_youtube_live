@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3028861530
+
+00:03.478 --> 00:05.273
+Paige.
+A lot of teams would have had 
+

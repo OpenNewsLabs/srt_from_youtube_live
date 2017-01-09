@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3020309010
+
+00:00.056 --> 00:06.437
+Now I just sped through that in 
+case I didn't say it right.
+

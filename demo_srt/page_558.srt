@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3021209910
+
+00:01.419 --> 00:03.633
+Barack Obama is tough but -- man
+ 
+
+00:03.634 --> 00:05.854
+that is a lot of vowels in there
+there.
+

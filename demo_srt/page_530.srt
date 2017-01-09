@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3008609280
+
+00:01.328 --> 00:04.842
+The George Cloony of coaches Jay
+ 
+
+00:04.843 --> 00:08.648
+Wright and today we celebrate a 
+remarkable team that worked 
+

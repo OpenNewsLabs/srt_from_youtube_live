@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3009059730
+
+00:03.644 --> 00:07.122
+tirelessly to make the coach 
+look good in terms of his job 
+

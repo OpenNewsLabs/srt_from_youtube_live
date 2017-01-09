@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3048660270
+
+00:03.336 --> 00:07.843
+our country and we welcome you 
+to the nova nation with your 
+

@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3019411080
+
+00:02.683 --> 00:06.118
+Learned how to shoot from his 
+mom.
+

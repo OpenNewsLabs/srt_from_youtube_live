@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3006360090
+
+00:01.087 --> 00:03.428
+This is the type of wise council
+ 
+
+00:03.429 --> 00:06.768
+that you're looking from a vice 
+president.
+

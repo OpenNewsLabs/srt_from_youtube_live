@@ -1,0 +1,10 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3018510180
+
+00:01.471 --> 00:03.237
+well.
+Chris Jenkens aka big smooth.
+
+00:03.238 --> 00:05.238
+[ APPLAUSE ]
+

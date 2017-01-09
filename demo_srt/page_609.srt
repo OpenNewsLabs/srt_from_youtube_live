@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3044161800
+
+00:01.168 --> 00:02.680
+ 
+to thank you and your staff for 
+
+00:02.681 --> 00:05.630
+inviting us to the White House.
+This is a great day for 
+

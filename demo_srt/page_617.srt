@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3047762430
+
+00:00.799 --> 00:03.826
+and it says on there for your 
+great leadership and your 
+
+00:03.827 --> 00:08.865
+service to our country.
+You're a great role model for 
+

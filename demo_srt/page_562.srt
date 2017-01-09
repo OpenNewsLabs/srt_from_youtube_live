@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3023011710
+
+00:00.210 --> 00:03.923
+four so we're very, very proud 
+of hip.
+
+00:03.938 --> 00:07.869
+Give him a round of applause.
+[ APPLAUSE ]
+

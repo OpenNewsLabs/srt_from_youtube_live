@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3024810450
+
+00:00.543 --> 00:03.570
+is attitude.
+As coach Wright said in life you
+
+00:03.850 --> 00:05.082
+ 
+cannot control what happens to 
+

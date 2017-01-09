@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3011759460
+
+00:02.858 --> 00:06.820
+She had unbelievable defense.
+They had great clutch shooting.
+

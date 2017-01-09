@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3003660360
+
+00:00.658 --> 00:03.190
+with a national championship.
+Pretty good job.
+
+00:03.740 --> 00:05.740
+Pretty good.
+[ APPLAUSE ]
+

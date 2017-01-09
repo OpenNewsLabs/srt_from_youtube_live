@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3017161800
+
+00:03.646 --> 00:07.561
+My daughter will be graduateing 
+from there next week which makes
+

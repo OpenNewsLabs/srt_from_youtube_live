@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3034260900
+
+00:01.360 --> 00:08.474
+Like nothing happened.
+So, but I know inside he was 
+

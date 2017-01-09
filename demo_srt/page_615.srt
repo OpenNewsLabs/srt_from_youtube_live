@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3046861530
+
+00:00.805 --> 00:04.393
+That we wore this year at Pearl 
+harbor.
+
+00:04.768 --> 00:10.808
+And it was on Pearl harbor day 
+and we really want to thank you 
+

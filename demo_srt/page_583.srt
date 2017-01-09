@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3032459100
+
+00:04.542 --> 00:10.551
+It's -- legendary coach -- who 
+led the wild cats their first 
+

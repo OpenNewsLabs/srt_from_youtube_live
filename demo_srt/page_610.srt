@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3044612250
+
+00:00.626 --> 00:05.029
+Villinova university and you 
+invited the politicians and 
+

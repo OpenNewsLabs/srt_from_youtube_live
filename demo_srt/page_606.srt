@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3042810450
+
+00:02.377 --> 00:06.042
+&gt;&gt; Mr. President, after the 
+championship we had a big press 
+

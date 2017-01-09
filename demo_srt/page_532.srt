@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3009510180
+
+00:02.118 --> 00:05.846
+and not just his wardrobe.
+His Taylor could not make it but
+

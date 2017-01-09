@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3017609280
+
+00:03.011 --> 00:04.835
+ 
+me cry when I talk about it so 
+
+00:04.836 --> 00:11.480
+I'm not going to talk about it 
+but it's good to see you do well
+

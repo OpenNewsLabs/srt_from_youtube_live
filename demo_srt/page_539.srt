@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3012660360
+
+00:02.536 --> 00:03.377
+ 
+history.
+
+00:03.378 --> 00:07.282
+They had a stable of talent 
+players who are as happy
+

@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3033360000
+
+00:00.542 --> 00:05.897
+title 31 years ago obviously 
+could not be prouder.
+

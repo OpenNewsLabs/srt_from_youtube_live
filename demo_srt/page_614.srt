@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3046411080
+
+00:01.331 --> 00:04.529
+jersey 44th president of the 
+United States.
+

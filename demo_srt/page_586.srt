@@ -1,0 +1,11 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3033810450
+
+00:00.907 --> 00:02.907
+Coach Wright on the other hand 
+played it cool.
+
+00:04.012 --> 00:06.336
+Just turned around and shook 
+hands.
+

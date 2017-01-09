@@ -1,0 +1,7 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3019861530
+
+00:01.160 --> 00:05.027
+Moms know what they are talking 
+about and then there is Ryan.
+

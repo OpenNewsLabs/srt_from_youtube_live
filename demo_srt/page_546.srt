@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00.000,MPEGTS:3015810450
+
+00:00.071 --> 00:01.414
+ 
+of the game.
+
+00:01.415 --> 00:04.572
+We have josh Hart who led in 
+scoreing.
+
+00:04.993 --> 00:08.597
+Congratulations.
+Where did you go to school?
+
